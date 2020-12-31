@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding:0px;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    position: relative;    
+}
+body {
+    background-image: url("https://store.bananacomputer.com/cmsAdmin/uploads/o_1ebm1360a1548187aubidpa1gbaa.jpg");
+    display: flex;
+    flex-direction: column;    
+}
+h1 {
+    margin-top: 20px;
+    color: blue;
+    text-align: center;    
+}
+h3 {
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center; 
+}
+img {
+    width: 400px;
+    margin-top: 20px; 
+}
+#thirdDiv {
+   width: 500px;
+   height: 600px; 
+   background-color: chocolate;
+   padding: 50px;
+   border: 2px solid black; 
+   margin-top: 40px;
+   margin-left: 400px;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
